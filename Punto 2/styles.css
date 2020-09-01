@@ -1,0 +1,38 @@
+h1 {
+  text-align: center;
+}
+.bannerfooter {
+  background-color: #5b493c;
+}
+
+.bannerfooter h1 {
+  color: white;
+}
+
+.contNar {
+  background-color: #f99a3e;
+}
+
+.topMenu {
+  background-color: #c39182;
+}
+
+.mainContent1 {
+  background-color: #f2f2f2;
+  padding-top: 7rem;
+  padding-bottom: 7rem;
+}
+
+.mainContent2 {
+  background-color: #ffffff;
+  padding-top: 7rem;
+  padding-bottom: 7rem;
+}
+
+.photoRoj {
+  background-color: #c5697a;
+}
+
+.photoVerd {
+  background-color: #00a2b6;
+}
